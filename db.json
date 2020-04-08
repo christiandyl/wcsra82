@@ -5,6 +5,24 @@
       "title": "hello"
     }
   ],
+  "providers": [
+    {
+      "id": 1,
+      "name": "AWS"
+    },
+    {
+      "id": 2,
+      "name": "MS Azure"
+    }
+  ],
+  "clouds": [
+    {
+      "id": 1,
+      "provider_id": 1,
+      "access_key": "AXSFEFWEGEWGEWFEWF",
+      "secret_access_key": "AXSFEFWEGEWGEWFEWF=="
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
